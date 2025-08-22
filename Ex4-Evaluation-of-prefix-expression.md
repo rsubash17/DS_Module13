@@ -87,7 +87,8 @@ int main()
 ```
 
 ## Output:
-![Uploading image.png…]()
+<img width="353" height="283" alt="image" src="https://github.com/user-attachments/assets/f5f38e06-ff2e-4795-a247-6d53f6f87031" />
+
 
 
 ## Result:
